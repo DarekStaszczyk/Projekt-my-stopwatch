@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import "../index.scss";
 import { Summary } from "./Summary";
-
 import { LapsList } from "./LapsList";
 import { StopwatchControls } from "./StopwatchControls";
 
